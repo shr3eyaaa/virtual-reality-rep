@@ -1,0 +1,36 @@
+# Technical Overview: VR, AR, and Space Technology
+
+---
+
+## What is VR?
+In recent times, we use various technologies to consume media, watch movies or just doomscroll. Basically, we just spend a lot of time on our screens. **Virtual Reality or VR** is a type of technology that uses a headset with a similar built-in screen to display a virtual environment for interactive experiences and exploration of digital tech. It is a stimulated experience which gives the user an immersive feel of reality. It enables us to visualise and understand complex concepts by producing realistic images or recreating various sounds and sensations. This is possible due to the equipment, which includes gyroscopes for motion tracking, HD screen for images, processors and other components. This stimulation is strongly oriented to the real world. The software includes computer graphics, audios and other sensory inputs. There is quite a lot of development going on in this field. We have come a long way, from experiencing VR through YouTube videos to using Generative AI algorithms to build realistic simulations.
+
+---
+
+## What is the difference b/w AR and VR?
+Firstly, **AR or Augmented Reality** is a similar type of tech as VR that makes us have an immersive experience. But instead of transporting you to the virtual world, it takes digital images and layers them on the real world.
+
+* Virtual reality aims to create a virtual experience with headsets and tracking to place the user in a different world. Augmented reality focuses on augmenting the physical world with digital artifacts, images, videos, or experiences overlayed with computer-generated imagery (CGI) and 3D models. 
+* AR uses a camera to allow you to interact with the physical world via a digital overlay. VR immerses you fully into a digital world via a headset, sound, and haptic feedback.
+* AR changes the way interaction between humans and machines occurs by bypassing the need for physical controls in the future through the use of virtual control panels. Whereas, in VR, users must control the visuals with hardware itself yet, it creates a sensory experience by stimulating and tricking the sensory organs into interacting with the virtual world as they would the physical world.  
+
+---
+
+## Trends in Space Tech
+* **Commercialisation of space** through private companies like SpaceX and Blue Origin has significantly created new markets and newer innovations.
+* **Satellite constellations** such as SpaceX’s Starlink, Amazon’s Kuiper and OneWeb are providing global high-speed internet which will increase connectivity around the world, especially in under-served and remote areas.
+* **Space tourism and habitation** are becoming realities through companies such as Virgin Galactic, Blue Origin and Axiom Space that may create commercial human space flight and laying the groundwork for sustainable habitats in space.
+* **Ambitious robotic and human missions** to the Moon, Mars and other celestial bodies are being conducted by both public and private organizations to facilitate future human settlements and behaviours while making great scientific discoveries.
+
+---
+
+## Indian Companies in Space
+
+### 1. Agnikul Cosmos
+Founded in 2016, Agnikul Cosmos is an IIT Madras incubated space tech start-up currently working on developing its own small-lift launch vehicle called **Agnibaan**, capable of placing a 100 kg payload into a 700 km orbit. Driven by LOX/Kerosene engines in all its stages, Agnibaan is configurable by the customer.
+
+### 2. Skyroot Aerospace
+Similar to Agnikul, Skyroot Aerospace is building rockets for launching payloads (satellites for now and in future humans as well) to space. The start-up has been actively developing its **Vikram series** of launch vehicles for the past two years. The series is named after the father of the Indian Space program - Dr Vikram Sarabhai. It's plan in the near term is to commercialise Vikram-1 and roll out the follow-on variants Vikram-2 and 3. These are essentially the same with a 20% upgrade but together cover the largest payload ranges from launching 1 kg to 700 kg of satellites. This is not possible using existing vehicles in the market.
+
+### 3. Pixxel
+While Agnikul and Skyroot Aerospace are building launch vehicles, Pixxel is aiming to put a constellation of more than 30 earth observation micro-satellites in space. The startup primarily focuses on two things - developing the technology and setting up the infrastructure to build a constellation of satellites. The startup also has a machine learning platform to mine actionable insights from data. Pixxel's satellite constellation can provide global coverage every 24-hours, to detect, monitor, and predict global phenomena.
